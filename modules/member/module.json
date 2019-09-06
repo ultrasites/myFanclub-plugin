@@ -1,0 +1,8 @@
+{
+  "name": "Member",
+  "description": "Organize member data",
+  "version": "1.0",
+  "menueEntry": {
+    "de": "Mitglieder"
+  }
+}

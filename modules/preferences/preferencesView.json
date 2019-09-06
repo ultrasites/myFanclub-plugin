@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Grundeinstellungen",
+        "views": [
+            {
+                "type": "text",
+                "label": "Fanclubname",
+                "name": "preferences_grundeinstellungen_fanclubname",
+                "placeholder": "Fanclubname"
+            },
+            {
+                "type": "text",
+                "label": "Straße",
+                "name": "preferences_grundeinstellungen_street",
+                "placeholder": "Straße"
+            },
+            {
+                "type": "text",
+                "label": "PLZ",
+                "name": "preferences_grundeinstellungen_plz",
+                "placeholder": "PLZ"
+            },
+            {
+                "type": "text",
+                "label": "Ort",
+                "name": "preferences_grundeinstellungen_city",
+                "placeholder": "Ort"
+            }
+        ]
+    },
+    {
+        "name": "Payment",
+        "views": [
+            {
+                "type": "solidPayment",
+                "label": "Fester Beitrag"
+            },
+            {
+                "type": "dynamicPayment",
+                "label": "Beitrag",
+                "fields": 4
+            }
+        ]
+    }
+]

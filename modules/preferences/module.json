@@ -1,0 +1,8 @@
+{
+    "name": "Preferences",
+    "description": "Settings for the Plugin",
+    "version": "1.0",
+    "menueEntry": {
+      "de": "Einstellungen"
+    }
+  }

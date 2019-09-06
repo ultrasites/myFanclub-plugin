@@ -1,0 +1,120 @@
+.wp-fanclub-edited-input {
+    border-color:rgb(255, 168, 8) !important;
+    box-shadow: 0 1px 2px rgba(255, 168, 8, 0.8) !important;
+}
+
+.wp-fanclub-members-data__font-size-small {
+    font-size: 0.8em !important;
+    line-height: 0;
+    color: #757575;
+}
+
+.wp-fanclub-members-data__address {
+    font-size: 0.85em;
+    color: #757575;
+    margin-bottom: 5px;
+}
+
+.wp-fanclub-members-data__collapsible{
+    display:none;
+    margin-bottom: 10px;
+}
+
+.wp-fanclub-members-data__collapsible-button, .ui .basic .icon .button .wp-fanclub-members-data__collapsible-button {
+    cursor:pointer;
+    font-size: 0.8em !important;
+}
+
+.wp-fanclub-modal__wordpress-user{
+    padding:15px;
+    text-align: center;
+}
+
+.wp-fanclub-members-data__fullname{
+    font-weight: bold;
+    font-size: 1em;
+}
+
+li > a, li > a:hover{
+    color: #555555;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-primary, .wp-core-ui .button-secondary {
+    height: auto;
+}
+
+.ui.table td>.ui.ribbon.label {
+    left: calc(-.78571429em - 1.3em);
+    margin-bottom: 5px;
+}
+
+
+.ui.table td>.ui.ribbon.label {
+    left: calc(-.78571429em - 1.3em);
+}
+
+
+.wp-fanclub-font-size-em-09 {
+    font-size: 0.9em !important;
+}
+
+.wp-fanclub-right {
+    float:right;
+}
+
+
+.wp-fanclub-font-size-em-09 {
+    font-size: 0.9em !important;
+}
+
+.wp-fanclub-right {
+    float:right;
+}
+
+.wp-fanclub-margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.wp-fanclub-logo {
+    width: 200px;
+    height: auto;
+    font-size: .92857143rem;
+    margin-bottom: 20px;
+}
+
+.wp-fanclub-h1 {
+    color: #025373;
+    font-size: 20px;
+}
+
+.wp-fanclub-hr {
+    border-color: #025373;
+    border-top: #025373;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+
+.wp-fanclub-raised-segment {
+    background-color: #F2F2F2 !important;
+}
+
+.wp-fanclub-badge-blue {
+    background-color: #025373 !important;
+}
+
+.wp-fanclub-badge-orange {
+    background-color: #BF930F !important;
+}
+
+.wp-fanclub-a {
+    color: #025373 !important;
+}
+
+.wp-fanclub-owner {
+    font-size: 13px;
+    color: #7a7a7a;
+}
+
+#wp-fanclub-modalAdd-data {
+    display: none;
+}

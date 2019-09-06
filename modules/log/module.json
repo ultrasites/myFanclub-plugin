@@ -1,0 +1,8 @@
+{
+  "name": "Log",
+  "description": "Logs specific data",
+  "version": "1.0",
+  "menueEntry": {
+    "de": "Logs"
+  }
+}

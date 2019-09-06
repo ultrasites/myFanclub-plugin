@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Mitglieder",
+        "views": [
+            {
+                "type": "text",
+                "label": "Template: Eigene Daten",
+                "name": "member_ownDataTemplate",
+                "placeholder": "/path to template"
+            }
+        ]
+    }
+]
